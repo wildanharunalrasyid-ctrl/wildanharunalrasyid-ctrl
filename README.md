@@ -1,6 +1,4 @@
 ## Hi there 👋
-<p><h1>aku dan wajah arab sampai mati love</h1></p>
-<img src="1000098516.jpeg">
 <!--
 **wildanharunalrasyid-ctrl/wildanharunalrasyid-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
