@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div class="card-body">
-    <div class="mt-5 container">
+    <div class="container mt-5">
        <img width="224" height="225" alt="image" src="https://github.com/user-attachments/assets/d23ef8ac-5fc7-43d2-bbbe-545c461f8ce6">
+        
    </div>
 </div>
   
