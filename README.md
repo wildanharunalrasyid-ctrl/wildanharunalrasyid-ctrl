@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div class="card-body">
     <div class="mt-5 container">
-   <img src="https://media4.giphy.com/media/      v1.Y2lkPTc5MGI3NjExand3ZDlqc2s5bWkyamtldHU5a3IxbTBqdzdwNmJpazNrZHM5eTI5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="100%" >
+       <img width="224" height="225" alt="image" src="https://github.com/user-attachments/assets/d23ef8ac-5fc7-43d2-bbbe-545c461f8ce6">
    </div>
 </div>
   
