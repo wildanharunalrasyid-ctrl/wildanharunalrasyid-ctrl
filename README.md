@@ -1,4 +1,4 @@
-## Hi there 👋
+<marque>Hi there 👋 welcome to my site..</marque>
 <!--
 **wildanharunalrasyid-ctrl/wildanharunalrasyid-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div class=""card-body>
+  <img src="https://www.desktophut.com/files/1760098693.mp4">
+</div>
+  
