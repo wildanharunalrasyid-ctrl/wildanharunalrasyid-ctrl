@@ -1,11 +1,11 @@
-<marque>Hi there 👋 welcome to my site..</marque>
+<figure>Hi there 👋 welcome to my site..</figure>
 <!--
 **wildanharunalrasyid-ctrl/wildanharunalrasyid-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning web design
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div class="card-body">
     <div class="container mt-5">
-         <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2c467030-8dd2-4fa8-951c-728a57b8ce84" /> <&ensbp; &ensbp;>
+         <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2c467030-8dd2-4fa8-951c-728a57b8ce84" />
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBtcm9uMm4zM2VnZ2o4NzhwdG4xZmNrdmVjeDFzOXQ5OGI5NGZsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LViPJi92JjYzkBmIkX/giphy.gif" width="10rem" alt="full image" >
    </div>
 </div>
